@@ -6,8 +6,8 @@ Welcome to my GitHub! I'm a passionate **software engineer**, constantly explori
 
 ## 🚀 About Me
 
-- 🎓 **Aspiring Entrepreneur:** My ultimate goal is to establish my own tech company after graduating. Until then, I'm committed to acing my academics and mastering my craft.  
-- 💻 **Programming Enthusiast:** Proficient in **HTML**, **CSS**, **JavaScript**, and **C# OOP**, with an eagerness to learn more about **JavaScript frameworks** and **backend technologies**.  
+- 🎓 **Aspiring Entrepreneur:** My ultimate goal is to establish my own tech company, I'm committed to mastering my craft.  
+- 💻 **Programming Enthusiast:** Proficient in **HTML**, **CSS**, **JavaScript**, **Swift**, **React.js**, **Python**, and **C# OOP**, with an eagerness to learn more about **JavaScript frameworks** and **backend technologies**.  
 - 🧠 **Problem Solver:** Enjoy designing and implementing innovative solutions, whether it's a personal project or a collaboration.  
 - 🎨 **Creative Explorer:** Currently experimenting with **Blender** for 3D modeling and design.  
 - 🛠️ **Builder:** Always looking for ways to turn ideas into reality, whether that's in the realm of **AI**, **web development**, or **embedded systems**.  
